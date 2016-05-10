@@ -19,7 +19,7 @@
 // When in calibration mode, adjust the NULL-values so that the servo arms are at all times parallel
 // either to the X or Y axis
 #define SERVOLEFTNULL 2150 //original 2150  
-#define SERVORIGHTNULL 1020 //original 1150 ???
+#define SERVORIGHTNULL 1020 //original 1150 ????
 
 #define SERVOPINLIFT  2
 #define SERVOPINLEFT  3
