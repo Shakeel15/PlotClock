@@ -1,5 +1,5 @@
 # PlotClock
-This is the Hub for eerything Plotclock-related.
+This is the Hub for everything Plotclock-related.
 
 Most Credit goes to joo on Thingiverse. 
 
