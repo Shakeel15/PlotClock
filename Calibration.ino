@@ -1,5 +1,7 @@
 // Plotclock
-// v 1.02
+// v 1.2
+//@author: Shakeel
+//Addressed some calibration issues
 // thingiverse.com/joo   wiki.fablab-nuernberg.de
 // units: mm; microseconds; radians
 // origin: bottom left of drawing surface
