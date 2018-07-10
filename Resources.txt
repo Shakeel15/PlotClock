@@ -1,13 +1,10 @@
-These will be the websites and resources I will cite that I used, of course:
+The websites and resources I will cite that I used:
 
 http://www.thingiverse.com/thing:248009 - PlotCLock itself on thingiverse
 https://github.com/9a/plotclock - The original GitHub for plotclock
 http://www.instructables.com/id/Plot-Clock-for-dummies/?ALLSTEPS - Simpler instructions for assembly & Calibration
 http://playground.arduino.cc/Code/time & https://github.com/PaulStoffregen/Time - Time Library info & Download
 http://www.pjrc.com/teensy/td_libs_DS1307RTC.html & https://github.com/PaulStoffregen/DS1307RTC - DS1307RTC Library Info & Download
-
-Ok, So I "gave up" on The original Design and went for a different approach. 
-
 http://www.thingiverse.com/thing:940737
 http://www.thingiverse.com/thing:371248
 
