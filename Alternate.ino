@@ -1,13 +1,6 @@
 // Plot Thermometer & Clock
-// This sketch is based on Johannes Heberlein's Plotclock v 1.02 (2014)
-// and fully backward compatible
-// added features:
-// - inline calibration & setup (use x when conected to a 9600 serial terminal)
-// - EEPROM storage of the calibration values
-// - temperature measurement capability based on a DS18B20
-// - Display flip capability
-// - switch for multiple function
-// enhancements by St. Ries (6/2014)
+//A different approach to Plotclock v1.3
+//@author: Shakeel
 
 // units: mm; microseconds; radians
 // origin: bottom left of drawing surface
