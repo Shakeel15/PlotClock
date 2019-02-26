@@ -1,17 +1,12 @@
 // Plotclock
 // v 1.2
-//@author: Shakeel
-//Addressed some calibration issues
+// @author: Shakeel
 // thingiverse.com/joo   wiki.fablab-nuernberg.de
 // units: mm; microseconds; radians
 // origin: bottom left of drawing surface
 // time library see http://playground.arduino.cc/Code/time 
 // RTC  library see http://playground.arduino.cc/Code/time 
 //               or http://www.pjrc.com/teensy/td_libs_DS1307RTC.html  
-// delete or mark the next line as comment if you don't need these
-
-//#define CALIBRATION      // enable calibration mode
-//#define REALTIMECLOCK    // enable real time clock
 
 // When in calibration mode, adjust the following factor until the servos move exactly 90 degrees
 #define SERVOFAKTORLEFT 585 //Contrrolled Right Limit for Left Arm

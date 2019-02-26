@@ -1,6 +1,5 @@
-// Plot Thermometer & Clock
-//A different approach to Plotclock v1.3
-//@author: Shakeel
+// PlotClock
+// @author: Shakeel
 
 // units: mm; microseconds; radians
 // origin: bottom left of drawing surface
